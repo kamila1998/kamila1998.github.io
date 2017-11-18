@@ -1,0 +1,12 @@
+h1,h2,h3,h4 {
+	font-family: verdana;
+	font-size: 200%;
+	color: mediumseagreen;
+	text-align: center;
+ }
+p{
+	font-family: courier;
+	font-size: 150%;
+	color: violet;
+	text-align: center;
+}
