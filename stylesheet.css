@@ -2,13 +2,13 @@
 h1 {
 	font-family: Buxton Sketch;
 	font-size: 200%;
-	color: rgb(217, 172, 255);
+	color: (217, 172, 255);
 	text-align: center;
  }
 p{
 	font-family: Gabriola;
 	font-size: 150%;
-	color: rgb(119, 161, 255);
+	color: (119, 161, 255);
 	text-align: center;
 }
 

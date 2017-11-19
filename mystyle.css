@@ -1,12 +1,12 @@
 h1,h2,h3,h4 {
 	font-family: Segoe Script;
 	font-size: 200%;
-	color: rgb(171, 137, 147);
+	color: (171, 137, 147);
 	text-align: center;
  }
 p{
 	font-family: courier;
 	font-size: 150%;
-	color: rgb(188, 159, 175);
+	color: (188, 159, 175);
 	text-align: center;
 }
