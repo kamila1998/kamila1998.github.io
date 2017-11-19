@@ -1,13 +1,14 @@
 
 h1 {
-	font-family: verdana;
+	font-family: Buxton Sketch;
 	font-size: 200%;
-	color: mediumseagreen;
+	color: rgb(217, 172, 255);
 	text-align: center;
  }
 p{
-	font-family: courier;
+	font-family: Gabriola;
 	font-size: 150%;
-	color: violet;
+	color: rgb(119, 161, 255);
 	text-align: center;
 }
+
