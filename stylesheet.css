@@ -1,3 +1,9 @@
+nes (12 sloc)  196 Bytes
+
+body { background-image:url('bird.png');
+background-position: center;
+background-size: cover;
+ background-attachment:fixed;}
 
 h1 {
 	font-family: Buxton Sketch;
@@ -5,10 +11,9 @@ h1 {
 	color: (217, 172, 255);
 	text-align: center;
  }
-p{
-	font-family: Gabriola;
-	font-size: 200%;
-	color: (225, 255, 255);
+h2{
+	font-family: Cooper black;
+	font-size: 35px;
+	color: orange;
 	text-align: center;
 }
-
